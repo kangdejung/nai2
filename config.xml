@@ -13,8 +13,7 @@
 	<preference name="fullscreen" value="true" />
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
-	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<allow-navigation href="http://nai2.dungzi.com/*" />
+	<allow-navigation href="http://naipropertree-m.com/*" />
 	<icon src="icon.png" />
 	<content src="index.html" />
 	<access origin="*" />
